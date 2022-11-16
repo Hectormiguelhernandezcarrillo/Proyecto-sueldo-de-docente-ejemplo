@@ -1,0 +1,8 @@
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\bin\Debug\Ejemplo_FP_Switch1_HectorM.exe.config
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\bin\Debug\Ejemplo_FP_Switch1_HectorM.exe
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\bin\Debug\Ejemplo_FP_Switch1_HectorM.pdb
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\obj\Debug\Ejemplo_FP_Switch1_HectorM.csproj.AssemblyReference.cache
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\obj\Debug\Ejemplo_FP_Switch1_HectorM.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\obj\Debug\Ejemplo_FP_Switch1_HectorM.csproj.CoreCompileInputs.cache
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\obj\Debug\Ejemplo_FP_Switch1_HectorM.exe
+C:\Users\hdzce\source\repos\Ejemplo_FP_Switch1_HectorM\Ejemplo_FP_Switch1_HectorM\obj\Debug\Ejemplo_FP_Switch1_HectorM.pdb
